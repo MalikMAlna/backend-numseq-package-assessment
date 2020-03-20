@@ -8,6 +8,7 @@ import types
 
 __author__ = """Worked with Detrich S., Jordan D., David R., and Mustafazir P.
 Janell's Demo on Fibonacci
+https://www.youtube.com/watch?v=Qk0zUZW-U_M
 https://stackoverflow.com/questions/4114167/checking-if-a-number-is-a-prime-number-in-python
 https://stackoverflow.com/questions/2068372/
 fastest-way-to-list-all-primes-below-n"""
